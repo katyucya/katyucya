@@ -21,6 +21,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katyucya-fabiane-de-lucca-vanoni-sant-ana-5093488b/)](https://www.linkedin.com/in/katyucya-fabiane-de-lucca-vanoni-sant-ana-5093488b/)
 
 ## Skills
+[![Katyucya GitHub stats](https://github-readme-stats.vercel.app/api?username=katyucya)](https://github.com/katyucya/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
